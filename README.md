@@ -1,2 +1,3 @@
 # KRACK-Detector
-Detection and Protection of WiFi Network from KRACK Attack
+
+In the survey folder, we have some related works that can be used for device fingerprinting by passively sniffing packets from the network.
